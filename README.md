@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasan
 
-<!--
-**Haasann46/Haasann46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Python, automation and Telegram bots.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python
+- aiogram
+- Selenium
+- APScheduler
+- SQLite
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### 🔹 Tap.az Monitor Bot
+Telegram bot that monitors new listings on Tap.az by categories and
+notifies users only about newly published ads.
+
+**Features:**
+- Per-user category subscriptions
+- Selenium-based parsing
+- Background scheduler
+- No duplicate notifications
+- Async + blocking code handled correctly
+
+👉 Repo: https://github.com/USERNAME/tapaz-monitor-bot
+
+## 📈 What I'm learning now
+- Async Python
+- System design basics
+- Web scraping performance optimization
+
+## 📫 Contact
+- Telegram: @your_username
